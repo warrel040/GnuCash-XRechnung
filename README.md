@@ -1,6 +1,15 @@
 # GnuCash-XRechnung
 Prototypen von Tools für die Nutzung von XRechnung in GnuCash
 
+
+## Table of content
+1. [1 CSV-Datei zum GnuCash-Import aus xRechung-XML erzeugen](#1-csv-datei-zum-gnucash-import-aus-xrechung-xml-erzeugen)
+2. [Aufruf](#aufruf)
+3. [Spezielle Wertebelegungen](#spezielle-wertebelegungen)
+4. [Erzeugte CSV-Datei](#erzeugte-csv-datei)
+5. [Darstellung in GnuCash](#darstellung-in-gnucash)
+6. [Haftungsausschluss](#haftungsausschluss)
+
 ## 1 CSV-Datei zum GnuCash-Import aus xRechung-XML erzeugen
 
 Für xRechnungen gibt es bisher keine Möglichkeit des Imports in GnuCash. Dieses XSLT-Stylesheet **importiereRechnung.xsl** setzt eine xRechnung in eine CSV-Datei um, die von GnuCash importiert werden kann.
