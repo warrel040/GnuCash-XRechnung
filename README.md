@@ -2,13 +2,13 @@
 Prototypen von Tools für die Nutzung von XRechnung in GnuCash
 
 
-## Table of content
-1. [1 CSV-Datei zum GnuCash-Import aus xRechung-XML erzeugen](#1-csv-datei-zum-gnucash-import-aus-xrechung-xml-erzeugen)
-2. [Aufruf](#aufruf)
-3. [Spezielle Wertebelegungen](#spezielle-wertebelegungen)
-4. [Erzeugte CSV-Datei](#erzeugte-csv-datei)
-5. [Darstellung in GnuCash](#darstellung-in-gnucash)
-6. [Haftungsausschluss](#haftungsausschluss)
+## Inhaltsverzeichnis
+1. [CSV-Datei zum GnuCash-Import aus xRechung-XML erzeugen](#1-csv-datei-zum-gnucash-import-aus-xrechung-xml-erzeugen)
+1.1. [Aufruf](#aufruf)
+1.2. [Spezielle Wertebelegungen](#spezielle-wertebelegungen)
+1.3. [Erzeugte CSV-Datei](#erzeugte-csv-datei)
+1.4. [Darstellung in GnuCash](#darstellung-in-gnucash)
+1.5. [Haftungsausschluss](#haftungsausschluss)
 
 ## 1 CSV-Datei zum GnuCash-Import aus xRechung-XML erzeugen
 
